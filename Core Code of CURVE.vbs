@@ -20,7 +20,7 @@ For i = 2 to 13
 
     If Range("L" & CStr(i)) >= 10 Then
         Range("M" & CStr(i)) = 0
-        Range("D" & CStr(i)) = 0
+        Range("K" & CStr(i)) = 0
     ElseIf 10 > Range("L" & CStr(i)) And Range("L" & CStr(i)) >= 0 Then
         Range("M" & CStr(i)) = (1 - Range("L" & CStr(i)) / 10)
         Range("K" & CStr(i)) = (1 - Range("L" & CStr(i)) / 10) * Range("N" & CStr(i))
