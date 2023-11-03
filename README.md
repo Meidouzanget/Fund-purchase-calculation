@@ -8,7 +8,8 @@
 
 所谓为了节省按计算机的几十秒，花费几十小时写代码......这一切都值得吗（VBS这种上古语言的资料真的很难找）
 ```
--- Someone wrote several hours' worth of automated code because they wanted to save a dozen seconds instead of using a calculator.
+-- Someone wrote several hours' worth of automated code becausethey wanted to save a dozen seconds instead
+of using a calculator.
 -- Oh, that's handy. Here's a question... Why?
 -- Because we can.
 ```
